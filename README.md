@@ -1,7 +1,7 @@
 # AHMR-Lab
 
 ## Overview
-The AHMR-Lab (Artificial Human-Machine Research Laboratory) repository is dedicated to research and development in human-machine interaction and artificial intelligence.
+The AHMR-Lab (Artificial Human-Machine Research Laboratory) repository is NLP-driven and allows AI agents to coordinate.
 
 ## Getting Started
 ### Prerequisites
@@ -17,13 +17,7 @@ The AHMR-Lab (Artificial Human-Machine Research Laboratory) repository is dedica
 Details about how to use this project will be documented here.
 
 ## Project Structure
-```
-project/
-├── docs/        # Documentation files
-├── src/         # Source code
-├── tests/       # Test files
-└── README.md    # This file
-```
+Details about projects structure will be documented here.
 
 ## Contributing
 We welcome contributions to the AHMR-Lab project. Please feel free to submit issues and pull requests.
