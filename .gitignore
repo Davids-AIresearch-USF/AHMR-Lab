@@ -1,0 +1,10 @@
+__pycache__
+mad_efficient/results
+mad_cuad/results
+
+# Environments
+mad_framework/.env
+.env
+.venv
+
+
